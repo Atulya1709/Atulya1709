@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Atul
 
-<!--
-**Atulya1709/Atulya1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer  
+💻 MERN Stack | Next.js | TypeScript  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧑‍💻 About Me
+- 💡 Passionate about building scalable web apps  
+- 🤖 Interested in AI & automation  
+- 📚 Always learning new technologies  
+
+
+
+## 🛠 Tech Stack
+- 💻 Frontend: React, Next.js, Tailwind CSS  
+- ⚙ Backend: Node.js,  
+- 🗄 Database: MongoDB, SQL  
+- 🧠 Languages: TypeScript, JavaScript, Python  
+
+
+
+## 📫 Contact Me
+- 📧 Email: atulyadavv17@gmail.com  
+- 🔗 LinkedIn:www.linkedin.com/in/atul-yadav-6a0573242  
+
+
+
+## ⚡ Fun Fact
+I love solving problems with clean code 🚀
