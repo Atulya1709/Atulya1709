@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 - 💻 Frontend: React, Next.js, Tailwind CSS  
-- ⚙ Backend: Node.js,  
+- ⚙ Backend: Node.js,fast Api
 - 🗄 Database: MongoDB, SQL  
 - 🧠 Languages: TypeScript, JavaScript, Python  
 
@@ -23,8 +23,3 @@
 ## 📫 Contact Me
 - 📧 Email: atulyadavv17@gmail.com  
 - 🔗 LinkedIn:www.linkedin.com/in/atul-yadav-6a0573242  
-
-
-
-## ⚡ Fun Fact
-I love solving problems with clean code 🚀
