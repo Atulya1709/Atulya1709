@@ -94,43 +94,9 @@ I have contributed to enterprise platforms including HRM, CRM, hotel management,
 
 LLM API integration (Anthropic Claude) · Prompt Engineering · Document Summarization · Structured Data Extraction · GitHub Copilot · Cursor
 
-## `$ projects --featured`
 
-### 1. ThumbCheck — YouTube Thumbnail Testing & Editor SaaS Platform
 
-*July 2026 – Present*
 
-- Built the complete frontend for a SaaS platform that helps YouTube creators design, test, and optimize video thumbnails against real search results.
-- Developed a Fabric.js multi-layer canvas editor with image composition, text styling, filters, layer management, undo/redo, and autosave.
-- Implemented live mobile preview and a SERP testing interface to benchmark thumbnails against YouTube results.
-- Built a typed API layer using TanStack Query and Zod schemas shared with the backend.
-- Created reusable loading, error, and empty states, along with plan-based feature gating and upgrade prompts.
-- Built AI workflows for background removal, enhancement, and scoring using idempotency keys, job polling, and real-time credit updates.
-
-**Tech:** Next.js · React.js · TypeScript · Fabric.js · TanStack Query · Zod
-
-### 2. Neptune HRM — Human Resource Management System
-
-*July 2025 – Present*
-
-- Contributed to a centralized HRM platform for employee management, leave tracking, and HR operations.
-- Built employee management features, including employee creation, updates, records, and attendance tracking.
-- Implemented leave application, approval, and tracking workflows, including LWP logic and leave-balance calculations.
-- Created role-based dashboards for Admin, HR, and Employee with separate permissions and real-time reports.
-- Integrated frontend screens with backend APIs and business-logic validation.
-
-**Tech:** React.js · Next.js · TypeScript · REST APIs
-
-## `$ experience`
-
-**Frontend Developer — Parxlab**  
-*Indore, India · September 2025 – Present*
-
-- Developed and maintained enterprise applications across HRM, CRM, hotel management, and asset management.
-- Built responsive, accessible, and reusable React components across products.
-- Collaborated with backend teams to integrate REST APIs and improve data workflows.
-- Improved application performance through code splitting, lazy loading, and frontend best practices.
-- Participated in code reviews and contributed to team coding standards.
 
 ## `$ education`
 
