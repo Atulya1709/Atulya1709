@@ -21,3 +21,14 @@
          │ > 100% caffeinated & coding  │
          └──────────────────────────────┘
 ```
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-yadav)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulyadavv17@gmail.com)
+[![Portfolio / SaaS](https://img.shields.io/badge/ThumbCheck_SaaS-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thumbcheck-gamma.vercel.app)
+
+<br/>
+
+![Skill Icons](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,mysql,redis,tailwind,git,github,vscode&theme=dark)
+
+</div>
